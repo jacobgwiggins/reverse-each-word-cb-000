@@ -1,12 +1,12 @@
 # def reverse_each_word(words)
-# 
+#
 # #   phrase = words.reverse
 # # phrase.split(" ").collect.reverse.join(" ")
 # #
 # # def hamburger(toppings)
 #   sentence = words.collect do |word|
 #     word.reverse
-# 
+#
 # end
 #   sentence.join
 # end
